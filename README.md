@@ -3,15 +3,5 @@
 Aws infrasctruce with different ENV (dev, test, uat, prod)
 
 **TREE Structure**
-.
-├── README.md
-├── aws_infra
-│   ├── ec2.tf
-│   ├── output.tf
-│   ├── s3.tf
-│   ├── terraform.tfvars
-│   ├── variable.tf
-│   └── vpc.tf
-├── main.tf
-├── provider.tf
-└── terraform.tf
+
+<img width="188" alt="image" src="https://github.com/user-attachments/assets/c964012c-df48-40a1-b7a7-75d0ae03c608">
